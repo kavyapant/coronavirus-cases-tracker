@@ -25,6 +25,7 @@ mvn spring-boot:run
 ## Deployed Application
 URL:https://cornavirus-tracker.herokuapp.com/
 ## Image of Application
+Image was captured for data on 8th September,2021
 <img width="744" alt="SampleImage" src="https://user-images.githubusercontent.com/49717164/132540702-e831dcf3-13a1-4110-b6fd-c8034217696d.PNG">
 
 
